@@ -54,12 +54,3 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-### توضیحات بخش‌ها:
-
-- **Project Overview**: در این قسمت توضیحات کلی در مورد پروژه آورده شده است.
-- **Dataset**: اشاره به داده‌های استفاده شده در پروژه و ویژگی‌های آنها.
-- **Installation**: دستورالعمل‌های نصب و راه‌اندازی پروژه.
-- **Usage**: نحوه استفاده از اسکریپت‌ها و مدل‌ها در پروژه.
-- **References**: منابع و مراجع مرتبط با پروژه.
-- **Contributing**: تشویق به مشارکت در پروژه.
-
