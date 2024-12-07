@@ -40,12 +40,6 @@ For example, to run the predictive modeling script:
 python predict_biogas.py
 ```
 
-## 📚 References
-
-- Include any relevant papers, datasets, or tools that you used in this project. For example:
-  - [Dataset Source](link_to_dataset)
-  - [Research Paper 1](link_to_paper)
-  - [Research Paper 2](link_to_paper)
 
 ## 📈 Contributing
 
