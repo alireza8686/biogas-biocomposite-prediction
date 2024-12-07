@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # Biogas Biocomposite Prediction
 
 ## 🚀 Project Overview
@@ -50,7 +49,7 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-**Developed by [Your Name]**
+**Developed by [Alireza Alavi]**
 ```
 
 ---
