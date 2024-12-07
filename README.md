@@ -14,6 +14,8 @@ This repository is focused on predictive modeling of biogas production from bioc
 
 The dataset used in this project includes various biocomposite materials, their compositions, and the corresponding anaerobic digestion conditions such as temperature, pH, retention time, and the resulting biogas production.
 
+دیتاست مورد استفاده در این پروژه شامل مواد مختلف بیوکامپوزیت، ترکیب‌های آن‌ها، و شرایط مربوط به فرآیند هضم بی‌هوازی مانند دما، pH، مدت زمان هضم و میزان تولید بیوگاز است.
+
 ## 🔧 Installation
 
 To get started with the project, follow these steps:
